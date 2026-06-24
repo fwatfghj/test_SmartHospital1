@@ -299,7 +299,7 @@ if submitted:
             <div style="margin-bottom:14px;">
                 <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:5px;">
                     <span style="font-size:13px;font-weight:{'700' if is_top else '400'};
-                                 color:{'#111827' if is_top else '#6b7280'};">
+                                 color:{'#F54927' if is_top else '#6b7280'};">
                         {dinfo['icon']} {dname}
                     </span>
                     <span style="font-size:13px;font-weight:{'700' if is_top else '400'};
